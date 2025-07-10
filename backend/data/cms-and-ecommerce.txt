@@ -1,0 +1,25 @@
+🛠️ CMS & eCommerce
+
+A CMS (Content Management System) is web software used to create and manage website content without needing to modify code.
+
+CMS platforms allow content/media updates through an admin interface.
+
+Popular CMS examples:
+
+WordPress – the most widely used open-source CMS with 80–90% market share for content-based websites.
+
+🛒 eCommerce Platforms
+
+eCommerce platforms help set up an online store to sell products.
+
+Popular platforms include:
+
+Shopify
+
+WooCommerce (built on WordPress)
+
+Magento
+
+PrestaShop
+
+CMS and eCommerce solutions can also be custom-built when needed.

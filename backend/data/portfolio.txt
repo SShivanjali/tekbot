@@ -1,0 +1,16 @@
+🗂️ Brief Portfolio
+
+🦠 Pandemic Reporting App
+A prototype mobile app designed to track pandemic data and trends worldwide.
+
+👗 Fashion App
+A personalized app for a fashion boutique offering one-on-one services to customers.
+
+🩺 Video Conference App
+A scheduling platform enabling virtual consultations between doctors and patients.
+
+🌍 Dynamic 3D Geo Model
+Developed an interactive 3D geographic model using WebGL for advanced visualization.
+
+🏢 Dynamic Floor Models
+Built a 3D model with dynamic floors and room interactions using WebGL and Node.js.

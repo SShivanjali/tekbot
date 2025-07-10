@@ -1,0 +1,41 @@
+Technology Overview
+We use a wide range of modern technologies across frontend, backend, and content platforms to build robust and scalable digital solutions.
+
+Frontend Development
+Frontend refers to the graphical interface that users interact with.
+
+Core technologies: HTML, CSS, JavaScript.
+
+For complex applications, we use frameworks like:
+
+React.js, Angular, Vue.js.
+
+For mobile/tablet-focused frontend:
+
+React Native, Cordova, Ionic, Framework7, Xamarin, Flutter.
+
+Backend Development
+Backend is the server-side part of the application — invisible to users but crucial for functionality.
+
+Common backend languages and frameworks:
+
+PHP (Laravel, Slim), Java, Python (Django, Flask), Node.js, C# (.NET Core).
+
+Backend is used to:
+
+Write APIs
+
+Process data
+
+Interact with databases like MySQL, MongoDB, PostgreSQL, Oracle, SQL Server.
+
+CMS & eCommerce
+CMS (Content Management Systems) allow managing content without code changes.
+
+WordPress is the most widely used CMS (80–90% market share for content websites).
+
+E-commerce platforms help set up online shops:
+
+Popular platforms: Shopify, WooCommerce (WordPress-based), Magento, PrestaShop.
+
+We also build custom CMS or shops when needed for specific business requirements.

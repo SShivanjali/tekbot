@@ -1,0 +1,39 @@
+📦 Backend Development
+
+The backend is the part of a website or application that handles server-side processing, data storage, and logic. It's not visible to users, but it powers everything behind the scenes.
+
+🛠️ Technologies and Languages
+
+PHP (Frameworks: Laravel, Slim, CodeIgniter)
+
+Python (Frameworks: Django, Flask)
+
+Java
+
+C# using .NET Core
+
+Node.js — fast and widely used with frontend frameworks like React, Angular, Vue
+
+💾 Databases Supported
+
+MySQL
+
+MongoDB
+
+Microsoft SQL Server
+
+PostgreSQL
+
+Oracle
+
+📡 APIs
+
+We build REST APIs to connect the frontend with backend systems efficiently.
+
+Backend code enables communication between the database and the frontend.
+
+💡 Why Backend Matters
+
+Backend logic ensures your app runs smoothly and securely.
+
+Supports scalability, performance, and custom business rules.
