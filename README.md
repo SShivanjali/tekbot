@@ -6,11 +6,11 @@ TekBot is an AI-powered chatbot built with Next.js (frontend) and FastAPI (backe
 
 ## Features
 
-✅ Semantic search over company content  
-✅ Answer generation with Flan-T5  
-✅ Vector embeddings via HuggingFace models  
-✅ Clean modern UI with Next.js and Tailwind CSS  
-✅ CORS-enabled API for smooth integration
+- Semantic search over company content  
+- Answer generation with Flan-T5  
+- Vector embeddings via HuggingFace models  
+- Clean modern UI with Next.js and Tailwind CSS  
+- CORS-enabled API for smooth integration
 
 ---
 
