@@ -96,6 +96,6 @@ http://localhost:3000
 - **main.py** exposes _**/chat**_ API to receive messages and return answers.
 
 ### Credits
-Made by Shivanjali Srivastav and Milonee, as part of the Web Development Internship at Tekweiser.
+Made by Shivanjali Srivastav and Milonee Sharma, as part of the Web Development Internship at Tekweiser.
 
 
