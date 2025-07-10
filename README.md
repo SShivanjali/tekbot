@@ -51,7 +51,7 @@ cd backend/scripts
 python ingest.py
 ```
 
-### 5️⃣ Start the FastAPI server
+### 5️. Start the FastAPI server
 ```bash
 cd ..
 uvicorn app.main:app --reload
@@ -70,7 +70,7 @@ curl -X POST "http://127.0.0.1:8000/chat" \
     -d "{\"message\": \"What services does Tekweiser offer?\"}"
 ```
 
-### 6️⃣ Start the frontend
+### 6️. Start the frontend
 In a new terminal:
 
 ```bash
