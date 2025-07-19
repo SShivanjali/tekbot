@@ -24,7 +24,6 @@ cd tekbot
 ```
 
 ### 2️. Prepare the backend
-Python 3.10+ recommended
 
 Install dependencies:
 
